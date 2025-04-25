@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDate\n\n\nDescription\n\n\n\n\n\n\nHandling Delta Probabilities in GAMM Analysis\n\n\n \n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Methods Journal",
+    "section": "",
+    "text": "Essays and case studies on modeling, analysis, and real-world statistical kludges.\nSee Posts for all entries."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a living archive of statistical methods, judgment calls, and practical modeling work.\nI don’t always follow the book. I follow the structure of the problem.\nI’m a data scientist with 9 years of experience in the pharmaceutical, logistics, medical, and educational fields. I thrive on big, underspecified problems: projects no one knows how to start, let alone finish. When I don’t have the silver bullet, give me a few weeks and I’ll crack the thing open, build the scaffolding, and deliver something clear, credible, and useful. I make methods behave in the wild, especially when the data’s weird, the goalposts move, and there’s no established best practice—just judgment.\nI don’t just analyze data, I create direction from ambiguity, and work to make statistical decisions legible to people. If the problem’s weird and the expectations unclear then I’m probably your best shot."
+  },
+  {
+    "objectID": "posts/sample-post.html",
+    "href": "posts/sample-post.html",
+    "title": "Handling Delta Probabilities in GAMM Analysis",
+    "section": "",
+    "text": "Handling Delta Probabilities in GAMM Analysis\nSometimes you’re forced to compare groups without a true control condition, and stakeholders expect traditional ANOVA-style outputs. Here’s one way I handled it using weighted GAMMs and delta-probability contrasts, under heavy structural constraints.\n(This is a sample post. Replace this with your real essays.)"
+  }
+]
